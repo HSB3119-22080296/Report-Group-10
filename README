@@ -1,7 +1,7 @@
 Introduce: the Boston Housing Dataset Boston Housing Dataset is a famous dataset in the field of machine learning, often used for research and development of regression models. This dataset contains information on 506 neighborhoods within Boston, including characteristics such as real estate value, number of rooms, crime rate, and proximity to factors such as schools and shopping malls. commerce.
 
 
-![](image/ảnh1.png)
+![](image/ảnh1.png).
 
 
 Analyze:
@@ -16,7 +16,7 @@ Value of Use : Room per dwelling
 Objective Social Factors: Crime Rating
 
 
-   ![](images/ảnh2.png)  
+![](image/ảnh2.png).
 
 Relationship between location near the river and house price:
 Houses near the river (river_proximity = 1) have a significantly higher average price than houses not near the river (river_proximity = 0). This reflects the value of owning a home near a river, which is often a more desirable location for its views and fresh ai
